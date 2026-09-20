@@ -250,28 +250,28 @@ opportunities & resources that elevate your skills.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sairaj-p-patil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sairaj-p-patil&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairaj-p-patil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <!---->
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairaj-p-patil&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sairaj2033&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairaj-p-patil&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sairaj-p-patil&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sairaj2033&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sairaj-p-patil&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairaj-p-patil&theme=tokyonight"/>
 </p>
 
 ## 🏆 GitHub Trophies
@@ -279,7 +279,7 @@ opportunities & resources that elevate your skills.
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />  </a>
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=sairaj-p-patil&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />  </a>
 </p>
 
 ## 📈 Contribution Graph
@@ -311,11 +311,11 @@ opportunities & resources that elevate your skills.
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/sairaj-p-patil"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/sairaj-p-patil?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+  <img src="https://img.shields.io/github/stars/sairaj-p-patil?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
 
 <p align="center">
