@@ -1,6 +1,5 @@
 
 
-<img width="100%" src="/assets/Artboard5.png"/>
 
 
 <p align="center">
