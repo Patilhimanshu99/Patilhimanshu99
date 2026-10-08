@@ -36,28 +36,54 @@
 
 ## 🎯 About Me
 
-```typescript
-const himanshu = {
-    role: "B.E. AI & Data Science (3rd Year)",
-    location: "Pune, Maharashtra, India",
+<p align="center">
+  I'm a <b>3rd-year B.E. Artificial Intelligence &amp; Data Science</b> student who loves turning ideas into
+  <b>practical software and AI-powered systems</b>.<br/>
+  I don't just want to learn technologies — I want to <b>build something useful with them</b>.
+</p>
 
-    building: [
-        "AI Powered Systems",
-        "Full Stack Web Applications",
-        "Data Driven Projects"
-    ],
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/Role-AI_%26_Data_Science_Student-2563EB?style=flat&logo=academia&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Year-3rd_Year_B.E.-0EA5E9?style=flat&logo=googlescholar&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Location-Pune,_India-22D3EE?style=flat&logo=googlemaps&logoColor=white" />
+</p>
 
-    learning: [
-        "Python & Machine Learning",
-        "DSA with Java",
-        "Advanced MERN",
-        "AI & LLM Applications",
-        "System Design"
-    ],
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-    philosophy: "Build things that actually work."
-};
-```
+### 🚀 Building
+<sub>What I'm working on</sub>
+
+🤖 AI Powered Systems<br/>
+🌐 Full Stack Web Apps<br/>
+📊 Data Driven Projects
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📖 Learning
+<sub>What I'm leveling up</sub>
+
+🐍 Python &amp; Machine Learning<br/>
+☕ DSA with Java<br/>
+⚛️ Advanced MERN<br/>
+🧠 AI &amp; LLM Applications<br/>
+🏗️ System Design
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 💡 Philosophy
+<sub>How I work</sub>
+
+🛠️ Build things that actually work<br/>
+🔁 Learn → Build → Break → Fix<br/>
+🌱 Fundamentals over buzzwords
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -181,16 +207,21 @@ An AI/data-driven project using graph-based routing on OpenStreetMap data.
 
 ## 📚 Learning Roadmap
 
-```mermaid
-flowchart LR
-    A[DSA with Java] --> B[Advanced Python]
-    B --> C[Machine Learning]
-    C --> D[AI / LLM Applications]
-    D --> E[Advanced Full Stack]
-    E --> F[System Design]
-    style A fill:#22d3ee,stroke:#0e7490,color:#000
-    style F fill:#a78bfa,stroke:#6d28d9,color:#000
-```
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/1._DSA_with_Java-1E3A8A?style=flat&logo=openjdk&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/2._Advanced_Python-2563EB?style=flat&logo=python&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/3._Machine_Learning-0EA5E9?style=flat&logo=scikitlearn&logoColor=white" />
+</p>
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/4._AI_/_LLM_Apps-0891B2?style=flat&logo=openai&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/5._Advanced_Full_Stack-06B6D4?style=flat&logo=react&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/6._System_Design-22D3EE?style=flat&logo=diagramsdotnet&logoColor=white" />
+</p>
 
 > Focusing on strengthening fundamentals rather than simply collecting technologies.
 
@@ -198,11 +229,23 @@ flowchart LR
 
 ## 🏗️ Development Approach
 
-```mermaid
-flowchart LR
-    P[Problem] --> R[Research] --> D[Design] --> B[Build] --> T[Test] --> DP[Deploy] --> I[Improve]
-    I -.-> P
-```
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/Problem-1E3A8A?style=flat&logo=target&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/Research-1D4ED8?style=flat&logo=googlescholar&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/Design-2563EB?style=flat&logo=figma&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/Build-0EA5E9?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/Test-0891B2?style=flat&logo=jest&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/Deploy-06B6D4?style=flat&logo=vercel&logoColor=white" />
+  <b>➜</b>
+  <img height="30" src="https://img.shields.io/badge/Improve-22D3EE?style=flat&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
@@ -244,25 +287,10 @@ flowchart LR
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Patilhimanshu99&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patilhimanshu99&theme=radical&column=7&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Patilhimanshu99&theme=tokyo-night&hide_border=true&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&color=22D3EE&title_color=22D3EE&bg_color=1A1B27" />
-</p>
-
-<!-- Snake animation: needs the snake GitHub Action (see setup note) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patilhimanshu99/Patilhimanshu99/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patilhimanshu99/Patilhimanshu99/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Patilhimanshu99/Patilhimanshu99/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img width="100%" src="https://ghchart.rshah.org/22d3ee/Patilhimanshu99" alt="Himanshu's GitHub contribution chart" />
 </p>
 
 ---
